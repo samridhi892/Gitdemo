@@ -50,3 +50,7 @@ actual_price = driver.find_element(By.XPATH,
                                    "//div[text()='" + fruit_name + "']/parent::div/parent::div/div[@id='cell-" + priceColumn + "-undefined']").text
 assert actual_price == newValue
 time.sleep(4)
+
+
+#new changes 2 for git
+#hello hello
