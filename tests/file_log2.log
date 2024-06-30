@@ -1,0 +1,63 @@
+2024-06-27 10:42:59,434 : DEBUG : Utilities.BaseClass : A debug statement is executed
+2024-06-27 10:42:59,434 : INFO : Utilities.BaseClass : Information statement
+2024-06-27 10:42:59,434 : WARNING : Utilities.BaseClass : Warning mode 
+2024-06-27 10:42:59,434 : ERROR : Utilities.BaseClass : A major error has happened
+2024-06-27 10:42:59,435 : CRITICAL : Utilities.BaseClass : Critical issue
+2024-06-27 10:42:59,487 : DEBUG : Utilities.BaseClass : A debug statement is executed
+2024-06-27 10:42:59,487 : DEBUG : Utilities.BaseClass : A debug statement is executed
+2024-06-27 10:42:59,488 : INFO : Utilities.BaseClass : Information statement
+2024-06-27 10:42:59,488 : INFO : Utilities.BaseClass : Information statement
+2024-06-27 10:42:59,488 : WARNING : Utilities.BaseClass : Warning mode 
+2024-06-27 10:42:59,488 : WARNING : Utilities.BaseClass : Warning mode 
+2024-06-27 10:42:59,488 : ERROR : Utilities.BaseClass : A major error has happened
+2024-06-27 10:42:59,488 : ERROR : Utilities.BaseClass : A major error has happened
+2024-06-27 10:42:59,488 : CRITICAL : Utilities.BaseClass : Critical issue
+2024-06-27 10:42:59,488 : CRITICAL : Utilities.BaseClass : Critical issue
+2024-06-27 10:46:40,967 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:46:40,967 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:46:41,038 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:46:41,316 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:46:41,556 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:46:41,556 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:46:41,556 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:46:41,556 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:46:41,610 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:46:41,610 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:46:41,815 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:46:41,815 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:49:21,929 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:49:21,929 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:49:21,989 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:49:22,251 : INFO : Utilities.BaseClass : the message
+2024-06-27 10:49:22,267 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:49:22,362 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:49:22,362 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:49:22,362 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:49:22,362 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:49:22,415 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:49:22,415 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:49:22,635 : INFO : Utilities.BaseClass : the message
+2024-06-27 10:49:22,635 : INFO : Utilities.BaseClass : the message
+2024-06-27 10:49:22,645 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:49:22,645 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:52:33,383 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:52:33,383 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:52:33,445 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:52:33,694 : INFO : Utilities.BaseClass : the message
+2024-06-27 10:52:33,709 : INFO : Utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2024-06-27 10:52:33,709 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:52:33,843 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:52:33,843 : INFO : Utilities.BaseClass : getting the form page 
+2024-06-27 10:52:33,843 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:52:33,843 : INFO : Utilities.BaseClass : entering the first name
+2024-06-27 10:52:33,895 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:52:33,895 : INFO : Utilities.BaseClass : entering the email
+2024-06-27 10:52:34,135 : INFO : Utilities.BaseClass : the message
+2024-06-27 10:52:34,135 : INFO : Utilities.BaseClass : the message
+2024-06-27 10:52:34,147 : INFO : Utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2024-06-27 10:52:34,147 : INFO : Utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2024-06-27 10:52:34,147 : INFO : Utilities.BaseClass : checking message is correct
+2024-06-27 10:52:34,147 : INFO : Utilities.BaseClass : checking message is correct

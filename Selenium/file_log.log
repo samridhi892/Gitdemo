@@ -1,0 +1,8 @@
+2024-06-25 11:07:10,841 : INFO : test_loggin : Information statement
+2024-06-25 11:07:10,841 : WARNING : test_loggin : Warning mode 
+2024-06-25 11:07:10,841 : ERROR : test_loggin : A major error has happened
+2024-06-25 11:07:10,841 : CRITICAL : test_loggin : Critical issue
+2024-06-25 13:45:16,807 : INFO : test_loggin : Information statement
+2024-06-25 13:45:16,807 : WARNING : test_loggin : Warning mode 
+2024-06-25 13:45:16,807 : ERROR : test_loggin : A major error has happened
+2024-06-25 13:45:16,807 : CRITICAL : test_loggin : Critical issue
